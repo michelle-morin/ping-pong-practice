@@ -1,4 +1,4 @@
-# Ping Pong MVC Application
+# Ping Pong Console Application
 
 #### _C#/.Net Core Application_ _24th Feb. 2020_
 
